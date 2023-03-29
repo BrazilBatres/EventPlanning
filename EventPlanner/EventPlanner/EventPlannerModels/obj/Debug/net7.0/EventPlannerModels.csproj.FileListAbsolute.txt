@@ -1,0 +1,36 @@
+D:\UNIVERSIDAD\2023 CICLO 1\PROGRAMACIÓN WEB\EventPlanner\EventPlanner\EventPlannerModels\bin\Debug\net7.0\EventPlannerModels.deps.json
+D:\UNIVERSIDAD\2023 CICLO 1\PROGRAMACIÓN WEB\EventPlanner\EventPlanner\EventPlannerModels\bin\Debug\net7.0\EventPlannerModels.dll
+D:\UNIVERSIDAD\2023 CICLO 1\PROGRAMACIÓN WEB\EventPlanner\EventPlanner\EventPlannerModels\bin\Debug\net7.0\EventPlannerModels.pdb
+D:\UNIVERSIDAD\2023 CICLO 1\PROGRAMACIÓN WEB\EventPlanner\EventPlanner\EventPlannerModels\obj\Debug\net7.0\EventPlannerModels.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\2023 CICLO 1\PROGRAMACIÓN WEB\EventPlanner\EventPlanner\EventPlannerModels\obj\Debug\net7.0\EventPlannerModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSIDAD\2023 CICLO 1\PROGRAMACIÓN WEB\EventPlanner\EventPlanner\EventPlannerModels\obj\Debug\net7.0\EventPlannerModels.AssemblyInfoInputs.cache
+D:\UNIVERSIDAD\2023 CICLO 1\PROGRAMACIÓN WEB\EventPlanner\EventPlanner\EventPlannerModels\obj\Debug\net7.0\EventPlannerModels.AssemblyInfo.cs
+D:\UNIVERSIDAD\2023 CICLO 1\PROGRAMACIÓN WEB\EventPlanner\EventPlanner\EventPlannerModels\obj\Debug\net7.0\EventPlannerModels.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\2023 CICLO 1\PROGRAMACIÓN WEB\EventPlanner\EventPlanner\EventPlannerModels\obj\Debug\net7.0\EventPlannerModels.dll
+D:\UNIVERSIDAD\2023 CICLO 1\PROGRAMACIÓN WEB\EventPlanner\EventPlanner\EventPlannerModels\obj\Debug\net7.0\refint\EventPlannerModels.dll
+D:\UNIVERSIDAD\2023 CICLO 1\PROGRAMACIÓN WEB\EventPlanner\EventPlanner\EventPlannerModels\obj\Debug\net7.0\EventPlannerModels.pdb
+D:\UNIVERSIDAD\2023 CICLO 1\PROGRAMACIÓN WEB\EventPlanner\EventPlanner\EventPlannerModels\obj\Debug\net7.0\ref\EventPlannerModels.dll
+D:\UNIVERSIDAD\2023 CICLO 1\PROGRAMACIÓN WEB\RepoEventPlanner\EventPlanner\EventPlanner\EventPlanner\EventPlannerModels\bin\Debug\net7.0\EventPlannerModels.deps.json
+D:\UNIVERSIDAD\2023 CICLO 1\PROGRAMACIÓN WEB\RepoEventPlanner\EventPlanner\EventPlanner\EventPlanner\EventPlannerModels\bin\Debug\net7.0\EventPlannerModels.dll
+D:\UNIVERSIDAD\2023 CICLO 1\PROGRAMACIÓN WEB\RepoEventPlanner\EventPlanner\EventPlanner\EventPlanner\EventPlannerModels\bin\Debug\net7.0\EventPlannerModels.pdb
+D:\UNIVERSIDAD\2023 CICLO 1\PROGRAMACIÓN WEB\RepoEventPlanner\EventPlanner\EventPlanner\EventPlanner\EventPlannerModels\obj\Debug\net7.0\EventPlannerModels.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\2023 CICLO 1\PROGRAMACIÓN WEB\RepoEventPlanner\EventPlanner\EventPlanner\EventPlanner\EventPlannerModels\obj\Debug\net7.0\EventPlannerModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSIDAD\2023 CICLO 1\PROGRAMACIÓN WEB\RepoEventPlanner\EventPlanner\EventPlanner\EventPlanner\EventPlannerModels\obj\Debug\net7.0\EventPlannerModels.AssemblyInfoInputs.cache
+D:\UNIVERSIDAD\2023 CICLO 1\PROGRAMACIÓN WEB\RepoEventPlanner\EventPlanner\EventPlanner\EventPlanner\EventPlannerModels\obj\Debug\net7.0\EventPlannerModels.AssemblyInfo.cs
+D:\UNIVERSIDAD\2023 CICLO 1\PROGRAMACIÓN WEB\RepoEventPlanner\EventPlanner\EventPlanner\EventPlanner\EventPlannerModels\obj\Debug\net7.0\EventPlannerModels.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\2023 CICLO 1\PROGRAMACIÓN WEB\RepoEventPlanner\EventPlanner\EventPlanner\EventPlanner\EventPlannerModels\obj\Debug\net7.0\EventPlannerModels.dll
+D:\UNIVERSIDAD\2023 CICLO 1\PROGRAMACIÓN WEB\RepoEventPlanner\EventPlanner\EventPlanner\EventPlanner\EventPlannerModels\obj\Debug\net7.0\refint\EventPlannerModels.dll
+D:\UNIVERSIDAD\2023 CICLO 1\PROGRAMACIÓN WEB\RepoEventPlanner\EventPlanner\EventPlanner\EventPlanner\EventPlannerModels\obj\Debug\net7.0\EventPlannerModels.pdb
+D:\UNIVERSIDAD\2023 CICLO 1\PROGRAMACIÓN WEB\RepoEventPlanner\EventPlanner\EventPlanner\EventPlanner\EventPlannerModels\obj\Debug\net7.0\ref\EventPlannerModels.dll
+D:\UNIVERSIDAD\2023 CICLO 1\PROGRAMACIÓN WEB\Event Planner (Proyecto)\EventPlanner - repo\EventPlanner\EventPlanner\EventPlannerModels\bin\Debug\net7.0\EventPlannerModels.deps.json
+D:\UNIVERSIDAD\2023 CICLO 1\PROGRAMACIÓN WEB\Event Planner (Proyecto)\EventPlanner - repo\EventPlanner\EventPlanner\EventPlannerModels\bin\Debug\net7.0\EventPlannerModels.dll
+D:\UNIVERSIDAD\2023 CICLO 1\PROGRAMACIÓN WEB\Event Planner (Proyecto)\EventPlanner - repo\EventPlanner\EventPlanner\EventPlannerModels\bin\Debug\net7.0\EventPlannerModels.pdb
+D:\UNIVERSIDAD\2023 CICLO 1\PROGRAMACIÓN WEB\Event Planner (Proyecto)\EventPlanner - repo\EventPlanner\EventPlanner\EventPlannerModels\obj\Debug\net7.0\EventPlannerModels.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\2023 CICLO 1\PROGRAMACIÓN WEB\Event Planner (Proyecto)\EventPlanner - repo\EventPlanner\EventPlanner\EventPlannerModels\obj\Debug\net7.0\EventPlannerModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSIDAD\2023 CICLO 1\PROGRAMACIÓN WEB\Event Planner (Proyecto)\EventPlanner - repo\EventPlanner\EventPlanner\EventPlannerModels\obj\Debug\net7.0\EventPlannerModels.AssemblyInfoInputs.cache
+D:\UNIVERSIDAD\2023 CICLO 1\PROGRAMACIÓN WEB\Event Planner (Proyecto)\EventPlanner - repo\EventPlanner\EventPlanner\EventPlannerModels\obj\Debug\net7.0\EventPlannerModels.AssemblyInfo.cs
+D:\UNIVERSIDAD\2023 CICLO 1\PROGRAMACIÓN WEB\Event Planner (Proyecto)\EventPlanner - repo\EventPlanner\EventPlanner\EventPlannerModels\obj\Debug\net7.0\EventPlannerModels.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\2023 CICLO 1\PROGRAMACIÓN WEB\Event Planner (Proyecto)\EventPlanner - repo\EventPlanner\EventPlanner\EventPlannerModels\obj\Debug\net7.0\EventPlannerModels.dll
+D:\UNIVERSIDAD\2023 CICLO 1\PROGRAMACIÓN WEB\Event Planner (Proyecto)\EventPlanner - repo\EventPlanner\EventPlanner\EventPlannerModels\obj\Debug\net7.0\refint\EventPlannerModels.dll
+D:\UNIVERSIDAD\2023 CICLO 1\PROGRAMACIÓN WEB\Event Planner (Proyecto)\EventPlanner - repo\EventPlanner\EventPlanner\EventPlannerModels\obj\Debug\net7.0\EventPlannerModels.pdb
+D:\UNIVERSIDAD\2023 CICLO 1\PROGRAMACIÓN WEB\Event Planner (Proyecto)\EventPlanner - repo\EventPlanner\EventPlanner\EventPlannerModels\obj\Debug\net7.0\ref\EventPlannerModels.dll
