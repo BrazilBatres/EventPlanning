@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wlaZCE/bkhlRfzghLviLQTFV3SJT2nfSvp/GbycP1vXjtggMqVkA5yc6OubogflZOH8Yw0eo1bXwUCbxyWIvcA==",
+  "dgSpecHash": "Fl4ODJCOJ/hn5JD6kkEfercTb10jed+PCAoFfz7YCO0Blf4X2ytzu+TKMdMjGLK4aKwp+anr4iMQczoJxa2JHw==",
   "success": true,
-  "projectFilePath": "D:\\UNIVERSIDAD\\2023 CICLO 1\\PROGRAMACIÓN WEB\\Event Planner (Proyecto)\\EventPlanner - repo\\EventPlanner\\EventPlanner\\EventPlanner\\EventPlanner.csproj",
+  "projectFilePath": "C:\\Users\\brazi\\Desktop\\EventPlanning\\EventPlanner\\EventPlanner\\EventPlanner\\EventPlanner.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\brazi\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\brazi\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TbCVQShY0oFUHk5gLCuRf5XWM33tF96AZLE/LA/aah9ES9geDb9z2qXWw40Tm7Zb2J9fgO2hyOsaLspZU8mIdA==",
+  "dgSpecHash": "YOiqBB1ILEo1XyItXQyLDsIzgsBkbBBXchpqBL8Qa8FBc9p3A5Ktr+u/Ek058/8i0oijC3Dj/jzdNrywx5HVNw==",
   "success": true,
-  "projectFilePath": "D:\\UNIVERSIDAD\\2023 CICLO 1\\PROGRAMACIÓN WEB\\Event Planner (Proyecto)\\EventPlanner - repo\\EventPlanner\\EventPlanner\\EPAPI\\EPAPI.csproj",
+  "projectFilePath": "C:\\Users\\brazi\\Desktop\\EventPlanning\\EventPlanner\\EventPlanner\\EPAPI\\EPAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\brazi\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\brazi\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

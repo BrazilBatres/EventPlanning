@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UNIVERSIDAD\\2023 CICLO 1\\PROGRAMACIÓN WEB\\Event Planner (Proyecto)\\EventPlanner - repo\\EventPlanner\\EventPlanner\\EventPlanner\\EventPlanner.csproj": {}
+    "C:\\Users\\brazi\\Desktop\\EventPlanning\\EventPlanner\\EventPlanner\\EventPlanner\\EventPlanner.csproj": {}
   },
   "projects": {
-    "D:\\UNIVERSIDAD\\2023 CICLO 1\\PROGRAMACIÓN WEB\\Event Planner (Proyecto)\\EventPlanner - repo\\EventPlanner\\EventPlanner\\EventPlannerModels\\EventPlannerModels.csproj": {
+    "C:\\Users\\brazi\\Desktop\\EventPlanning\\EventPlanner\\EventPlanner\\EventPlannerModels\\EventPlannerModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UNIVERSIDAD\\2023 CICLO 1\\PROGRAMACIÓN WEB\\Event Planner (Proyecto)\\EventPlanner - repo\\EventPlanner\\EventPlanner\\EventPlannerModels\\EventPlannerModels.csproj",
+        "projectUniqueName": "C:\\Users\\brazi\\Desktop\\EventPlanning\\EventPlanner\\EventPlanner\\EventPlannerModels\\EventPlannerModels.csproj",
         "projectName": "EventPlannerModels",
-        "projectPath": "D:\\UNIVERSIDAD\\2023 CICLO 1\\PROGRAMACIÓN WEB\\Event Planner (Proyecto)\\EventPlanner - repo\\EventPlanner\\EventPlanner\\EventPlannerModels\\EventPlannerModels.csproj",
+        "projectPath": "C:\\Users\\brazi\\Desktop\\EventPlanning\\EventPlanner\\EventPlanner\\EventPlannerModels\\EventPlannerModels.csproj",
         "packagesPath": "C:\\Users\\brazi\\.nuget\\packages\\",
-        "outputPath": "D:\\UNIVERSIDAD\\2023 CICLO 1\\PROGRAMACIÓN WEB\\Event Planner (Proyecto)\\EventPlanner - repo\\EventPlanner\\EventPlanner\\EventPlannerModels\\obj\\",
+        "outputPath": "C:\\Users\\brazi\\Desktop\\EventPlanning\\EventPlanner\\EventPlanner\\EventPlannerModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brazi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "D:\\UNIVERSIDAD\\2023 CICLO 1\\PROGRAMACIÓN WEB\\Event Planner (Proyecto)\\EventPlanner - repo\\EventPlanner\\EventPlanner\\EventPlanner\\EventPlanner.csproj": {
+    "C:\\Users\\brazi\\Desktop\\EventPlanning\\EventPlanner\\EventPlanner\\EventPlanner\\EventPlanner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UNIVERSIDAD\\2023 CICLO 1\\PROGRAMACIÓN WEB\\Event Planner (Proyecto)\\EventPlanner - repo\\EventPlanner\\EventPlanner\\EventPlanner\\EventPlanner.csproj",
+        "projectUniqueName": "C:\\Users\\brazi\\Desktop\\EventPlanning\\EventPlanner\\EventPlanner\\EventPlanner\\EventPlanner.csproj",
         "projectName": "EventPlanner",
-        "projectPath": "D:\\UNIVERSIDAD\\2023 CICLO 1\\PROGRAMACIÓN WEB\\Event Planner (Proyecto)\\EventPlanner - repo\\EventPlanner\\EventPlanner\\EventPlanner\\EventPlanner.csproj",
+        "projectPath": "C:\\Users\\brazi\\Desktop\\EventPlanning\\EventPlanner\\EventPlanner\\EventPlanner\\EventPlanner.csproj",
         "packagesPath": "C:\\Users\\brazi\\.nuget\\packages\\",
-        "outputPath": "D:\\UNIVERSIDAD\\2023 CICLO 1\\PROGRAMACIÓN WEB\\Event Planner (Proyecto)\\EventPlanner - repo\\EventPlanner\\EventPlanner\\EventPlanner\\obj\\",
+        "outputPath": "C:\\Users\\brazi\\Desktop\\EventPlanning\\EventPlanner\\EventPlanner\\EventPlanner\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brazi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\UNIVERSIDAD\\2023 CICLO 1\\PROGRAMACIÓN WEB\\Event Planner (Proyecto)\\EventPlanner - repo\\EventPlanner\\EventPlanner\\EventPlannerModels\\EventPlannerModels.csproj": {
-                "projectPath": "D:\\UNIVERSIDAD\\2023 CICLO 1\\PROGRAMACIÓN WEB\\Event Planner (Proyecto)\\EventPlanner - repo\\EventPlanner\\EventPlanner\\EventPlannerModels\\EventPlannerModels.csproj"
+              "C:\\Users\\brazi\\Desktop\\EventPlanning\\EventPlanner\\EventPlanner\\EventPlannerModels\\EventPlannerModels.csproj": {
+                "projectPath": "C:\\Users\\brazi\\Desktop\\EventPlanning\\EventPlanner\\EventPlanner\\EventPlannerModels\\EventPlannerModels.csproj"
               }
             }
           }

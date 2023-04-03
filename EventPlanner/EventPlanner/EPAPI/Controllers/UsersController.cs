@@ -145,14 +145,13 @@ namespace EPAPI.Controllers
                 {
                     return Problem("Entity set 'MoviesContext.Categories'  is null.");
                 }
-                string password = (from u in _context.Users where u.Id == user.Id select u.Password).First();
                 Models.User context_user = new Models.User()
                 {
                     Id = user.Id,
                     FirstName = user.FirstName,
                     LastName = user.LastName,
                     Email = user.Email,
-                    Password = password,
+                    Password = user.Password,
                     UserTypeId = user.UserTypeId,
                 };
                 _context.Users.Add(context_user);
